@@ -5,9 +5,14 @@ import com.util.parser.cmb_parser.WayPointType1;
 
 import javax.swing.*;
 import java.awt.*;
-import java.util.ArrayList;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.util.List;
 
 public class MainInterface extends JFrame {
+
+    List<Layer> layers;
+    int currLayer = 0;
 
     public MainInterface() {
 
@@ -18,32 +23,66 @@ public class MainInterface extends JFrame {
 
         String target = "samples/strong_qube_4_draft3_scale0.65_solid.cmb";
 
-        float [][] points = processData(target);
+        layers = processData(target);
 
-        add(new Surface());
+        Surface surface = new Surface();
+        surface.setCurrentLayer(layers.get(currLayer));
+        final JButton b=new JButton("Prev.");
+        final JButton b2 =new JButton("Next");
+        b.setBounds(10,10,95,30);
+        add(b);
+        b.addActionListener(new AbstractAction() {
+            @Override
+            public void actionPerformed(ActionEvent actionEvent) {
+                if(currLayer > 0){
+                    currLayer--;
+                    surface.setCurrentLayer(layers.get(currLayer));
+                }
+                surface.repaint();
+                b.repaint();
+                b2.repaint();
+
+            }
+        });
+
+        b2.setBounds(120,10,95,30);
+        b2.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent actionEvent) {
+                if(currLayer < layers.size()){
+                    currLayer++;
+                    surface.setCurrentLayer(layers.get(currLayer));
+                }
+                surface.repaint();
+                b2.repaint();
+                b.repaint();
+            }
+        });
+        add(b2);
+
+
+
+
+        add(surface);
 
         setTitle("Lines");
-        setSize(350, 250);
+        setSize(800, 600);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 
-    public float [][] processData(String path){
-        float [][] result;// = new float[][];
-        ArrayList<Layer> layers = null;//"samples\\Question.cmb");//Exclamation.cmb");
+    public List<Layer> processData(String path){
+        List<Layer> layers = null;//"samples\\Question.cmb");//Exclamation.cmb");
         try {
             layers = Layer.parseLayers(path);
         } catch (Exception e) {
             e.printStackTrace();
             return null;
         }
-        Layer first_layer =  layers.get(33);
-        for(int i = 0; i <first_layer.getSize(); i++) {
-            if(first_layer.getCommand(i) instanceof WayPointType1){
-
-            }
-        }
+        return layers;
     }
+
+
 
     public static void main(String[] args) {
 
