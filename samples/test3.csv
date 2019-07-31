@@ -1,0 +1,644 @@
+Command type: 0x05
+Command type: 0x06
+Command type: 0x0D
+Command type: 0x0B 0x00:, 4.135451, 4.264300, 0.139531
+Command type: 0x0B 0x02:, 4.135451, 4.264300, 0.113531
+Command type: 0x0B 0x03:, 4.135451, 4.189619, 0.000141
+Command type: 0x0B 0x01:, 4.035000, 4.189619
+Command type: 0x0B 0x01:, 4.035000, 4.264300
+Command type: 0x0B 0x01:, 4.135451, 4.264300
+Command type: 0x0B 0x03:, 4.067900, 4.189619, 0.000000
+Command type: 0x0B 0x02:, 4.067900, 4.189619, 0.139531
+Command type: 0x0B 0x01:, 4.521996, 4.109682
+Command type: 0x0B 0x02:, 4.521996, 4.109682, 0.113531
+Command type: 0x0B 0x03:, 4.521996, 4.035000, 0.000141
+Command type: 0x0B 0x01:, 4.421546, 4.035000
+Command type: 0x0B 0x01:, 4.421546, 4.109682
+Command type: 0x0B 0x01:, 4.521996, 4.109682
+Command type: 0x0B 0x03:, 4.454445, 4.035000, 0.000000
+Command type: 0x0B 0x02:, 4.454445, 4.035000, 0.139531
+Command type: 0x0B 0x01:, 4.393148, 4.264300
+Command type: 0x0B 0x02:, 4.393148, 4.264300, 0.113531
+Command type: 0x0B 0x03:, 4.393148, 4.189619, 0.000141
+Command type: 0x0B 0x01:, 4.292697, 4.189619
+Command type: 0x0B 0x01:, 4.292697, 4.264300
+Command type: 0x0B 0x01:, 4.393148, 4.264300
+Command type: 0x0B 0x03:, 4.325597, 4.189619, 0.000000
+Command type: 0x0B 0x02:, 4.325597, 4.189619, 0.139531
+Command type: 0x0B 0x01:, 4.264300, 4.109682
+Command type: 0x0B 0x02:, 4.264300, 4.109682, 0.113531
+Command type: 0x0B 0x03:, 4.264300, 4.035000, 0.000141
+Command type: 0x0B 0x01:, 4.163849, 4.035000
+Command type: 0x0B 0x01:, 4.163849, 4.109682
+Command type: 0x0B 0x01:, 4.264300, 4.109682
+Command type: 0x0B 0x03:, 4.196749, 4.035000, 0.000000
+Command type: 0x0B 0x02:, 4.196749, 4.035000, 0.139531
+Command type: 0x0B 0x01:, 4.006603, 4.109682
+Command type: 0x0B 0x02:, 4.006603, 4.109682, 0.113531
+Command type: 0x0B 0x03:, 4.006603, 4.035000, 0.000141
+Command type: 0x0B 0x01:, 3.906152, 4.035000
+Command type: 0x0B 0x01:, 3.906152, 4.109682
+Command type: 0x0B 0x01:, 4.006603, 4.109682
+Command type: 0x0B 0x03:, 3.939051, 4.035000, 0.000000
+Command type: 0x0B 0x02:, 3.939051, 4.035000, 0.139531
+Command type: 0x0B 0x01:, 3.877755, 4.264300
+Command type: 0x0B 0x02:, 3.877755, 4.264300, 0.113531
+Command type: 0x0B 0x03:, 3.877755, 4.189619, 0.000141
+Command type: 0x0B 0x01:, 3.777304, 4.189619
+Command type: 0x0B 0x01:, 3.777304, 4.264300
+Command type: 0x0B 0x01:, 3.877755, 4.264300
+Command type: 0x0B 0x03:, 3.810204, 4.189619, 0.000000
+Command type: 0x0B 0x02:, 3.810204, 4.189619, 0.139531
+Command type: 0x0B 0x01:, 4.435644, 4.095583
+Command type: 0x0B 0x02:, 4.435644, 4.095583, 0.113531
+Command type: 0x0B 0x03:, 4.507899, 4.095583, 0.000141
+Command type: 0x0B 0x01:, 4.507899, 4.049098
+Command type: 0x0B 0x01:, 4.435644, 4.049098
+Command type: 0x0B 0x01:, 4.435644, 4.095583
+Command type: 0x0B 0x03:, 4.507899, 4.049098, 0.000000
+Command type: 0x0B 0x02:, 4.507899, 4.049098, 0.139531
+Command type: 0x0B 0x01:, 4.306795, 4.250202
+Command type: 0x0B 0x02:, 4.306795, 4.250202, 0.113531
+Command type: 0x0B 0x03:, 4.379050, 4.250202, 0.000141
+Command type: 0x0B 0x01:, 4.379050, 4.203716
+Command type: 0x0B 0x01:, 4.306795, 4.203716
+Command type: 0x0B 0x01:, 4.306795, 4.250202
+Command type: 0x0B 0x03:, 4.379050, 4.203716, 0.000000
+Command type: 0x0B 0x02:, 4.379050, 4.203716, 0.139531
+Command type: 0x0B 0x01:, 4.177947, 4.095583
+Command type: 0x0B 0x02:, 4.177947, 4.095583, 0.113531
+Command type: 0x0B 0x03:, 4.250202, 4.095583, 0.000141
+Command type: 0x0B 0x01:, 4.250202, 4.049098
+Command type: 0x0B 0x01:, 4.177947, 4.049098
+Command type: 0x0B 0x01:, 4.177947, 4.095583
+Command type: 0x0B 0x03:, 4.250202, 4.049098, 0.000000
+Command type: 0x0B 0x02:, 4.250202, 4.049098, 0.139531
+Command type: 0x0B 0x01:, 4.049098, 4.250202
+Command type: 0x0B 0x02:, 4.049098, 4.250202, 0.113531
+Command type: 0x0B 0x03:, 4.121354, 4.250202, 0.000141
+Command type: 0x0B 0x01:, 4.121354, 4.203716
+Command type: 0x0B 0x01:, 4.049098, 4.203716
+Command type: 0x0B 0x01:, 4.049098, 4.250202
+Command type: 0x0B 0x03:, 4.121354, 4.203716, 0.000000
+Command type: 0x0B 0x02:, 4.121354, 4.203716, 0.139531
+Command type: 0x0B 0x01:, 3.920250, 4.095583
+Command type: 0x0B 0x02:, 3.920250, 4.095583, 0.113531
+Command type: 0x0B 0x03:, 3.992505, 4.095583, 0.000141
+Command type: 0x0B 0x01:, 3.992505, 4.049098
+Command type: 0x0B 0x01:, 3.920250, 4.049098
+Command type: 0x0B 0x01:, 3.920250, 4.095583
+Command type: 0x0B 0x03:, 3.992505, 4.049098, 0.000000
+Command type: 0x0B 0x02:, 3.992505, 4.049098, 0.139531
+Command type: 0x0B 0x01:, 3.791402, 4.250202
+Command type: 0x0B 0x02:, 3.791402, 4.250202, 0.113531
+Command type: 0x0B 0x03:, 3.863657, 4.250202, 0.000141
+Command type: 0x0B 0x01:, 3.863657, 4.203716
+Command type: 0x0B 0x01:, 3.791402, 4.203716
+Command type: 0x0B 0x01:, 3.791402, 4.250202
+Command type: 0x0B 0x03:, 3.863657, 4.203716, 0.000000
+Command type: 0x0B 0x02:, 3.863657, 4.203716, 0.139531
+Command type: 0x0B 0x01:, 4.061223, 4.232713
+Command type: 0x0B 0x02:, 4.061223, 4.232713, 0.113531
+Command type: 0x0B 0x03:, 4.064320, 4.238078, 0.000121
+Command type: 0x0B 0x01:, 4.109229, 4.238078
+Command type: 0x0B 0x01:, 4.109229, 4.221205
+Command type: 0x0B 0x01:, 4.106132, 4.215841
+Command type: 0x0B 0x03:, 4.061223, 4.232713, 0.000000
+Command type: 0x0B 0x02:, 4.061223, 4.232713, 0.139531
+Command type: 0x0B 0x01:, 4.190071, 4.078095
+Command type: 0x0B 0x02:, 4.190071, 4.078095, 0.113531
+Command type: 0x0B 0x03:, 4.193168, 4.083459, 0.000121
+Command type: 0x0B 0x01:, 4.238078, 4.083459
+Command type: 0x0B 0x01:, 4.238078, 4.066587
+Command type: 0x0B 0x01:, 4.234981, 4.061223
+Command type: 0x0B 0x03:, 4.190071, 4.078095, 0.000000
+Command type: 0x0B 0x02:, 4.190071, 4.078095, 0.139531
+Command type: 0x0B 0x01:, 4.318920, 4.232713
+Command type: 0x0B 0x02:, 4.318920, 4.232713, 0.113531
+Command type: 0x0B 0x03:, 4.322017, 4.238078, 0.000121
+Command type: 0x0B 0x01:, 4.366926, 4.238078
+Command type: 0x0B 0x01:, 4.366926, 4.221205
+Command type: 0x0B 0x01:, 4.363829, 4.215841
+Command type: 0x0B 0x03:, 4.318920, 4.232713, 0.000000
+Command type: 0x0B 0x02:, 4.318920, 4.232713, 0.139531
+Command type: 0x0B 0x01:, 4.447768, 4.078095
+Command type: 0x0B 0x02:, 4.447768, 4.078095, 0.113531
+Command type: 0x0B 0x03:, 4.450865, 4.083459, 0.000121
+Command type: 0x0B 0x01:, 4.495774, 4.083459
+Command type: 0x0B 0x01:, 4.495774, 4.066587
+Command type: 0x0B 0x01:, 4.492677, 4.061223
+Command type: 0x0B 0x03:, 4.447768, 4.078095, 0.000000
+Command type: 0x0B 0x02:, 4.447768, 4.078095, 0.139531
+Command type: 0x0B 0x01:, 3.932374, 4.078095
+Command type: 0x0B 0x02:, 3.932374, 4.078095, 0.113531
+Command type: 0x0B 0x03:, 3.935471, 4.083459, 0.000121
+Command type: 0x0B 0x01:, 3.980381, 4.083459
+Command type: 0x0B 0x01:, 3.980381, 4.066586
+Command type: 0x0B 0x01:, 3.977284, 4.061223
+Command type: 0x0B 0x03:, 3.932374, 4.078095, 0.000000
+Command type: 0x0B 0x02:, 3.932374, 4.078095, 0.139531
+Command type: 0x0B 0x01:, 3.803526, 4.232714
+Command type: 0x0B 0x02:, 3.803526, 4.232714, 0.113531
+Command type: 0x0B 0x03:, 3.806623, 4.238078, 0.000121
+Command type: 0x0B 0x01:, 3.851532, 4.238078
+Command type: 0x0B 0x01:, 3.851532, 4.221205
+Command type: 0x0B 0x01:, 3.848435, 4.215841
+Command type: 0x0B 0x03:, 3.803526, 4.232714, 0.000000
+Command type: 0x0B 0x02:, 3.803526, 4.232714, 0.139531
+Command type: 0x0D
+Command type: 0x0B 0x01:, 5.170368, 5.170368
+Command type: 0x0B 0x02:, 5.170368, 5.170368, 0.113531
+Command type: 0x0B 0x03:, 3.128933, 5.170368, 0.000201
+Command type: 0x0B 0x01:, 3.128933, 3.128933
+Command type: 0x0B 0x01:, 5.170368, 3.128933
+Command type: 0x0B 0x01:, 5.170368, 5.170368
+Command type: 0x0B 0x03:, 5.070367, 5.170368, 0.000000
+Command type: 0x0B 0x02:, 5.070367, 5.170368, 0.139531
+Command type: 0x0B 0x01:, 4.417417, 4.288568
+Command type: 0x0B 0x02:, 4.417417, 4.288568, 0.113531
+Command type: 0x0B 0x03:, 4.417417, 4.165350, 0.000201
+Command type: 0x0B 0x01:, 4.268429, 4.165350
+Command type: 0x0B 0x01:, 4.268429, 4.288568
+Command type: 0x0B 0x01:, 4.417417, 4.288568
+Command type: 0x0B 0x03:, 4.417417, 4.188569, 0.000000
+Command type: 0x0B 0x02:, 4.417417, 4.188569, 0.139531
+Command type: 0x0B 0x01:, 4.288568, 4.133950
+Command type: 0x0B 0x02:, 4.288568, 4.133950, 0.113531
+Command type: 0x0B 0x03:, 4.288568, 4.010732, 0.000201
+Command type: 0x0B 0x01:, 4.139580, 4.010732
+Command type: 0x0B 0x01:, 4.139580, 4.133950
+Command type: 0x0B 0x01:, 4.288568, 4.133950
+Command type: 0x0B 0x03:, 4.288568, 4.033950, 0.000000
+Command type: 0x0B 0x02:, 4.288568, 4.033950, 0.139531
+Command type: 0x0B 0x01:, 4.159720, 4.288568
+Command type: 0x0B 0x02:, 4.159720, 4.288568, 0.113531
+Command type: 0x0B 0x03:, 4.159720, 4.165350, 0.000201
+Command type: 0x0B 0x01:, 4.010732, 4.165350
+Command type: 0x0B 0x01:, 4.010732, 4.288568
+Command type: 0x0B 0x01:, 4.159720, 4.288568
+Command type: 0x0B 0x03:, 4.159720, 4.188569, 0.000000
+Command type: 0x0B 0x02:, 4.159720, 4.188569, 0.139531
+Command type: 0x0B 0x01:, 4.030872, 4.133950
+Command type: 0x0B 0x02:, 4.030872, 4.133950, 0.113531
+Command type: 0x0B 0x03:, 4.030872, 4.010732, 0.000201
+Command type: 0x0B 0x01:, 3.881883, 4.010732
+Command type: 0x0B 0x01:, 3.881883, 4.133950
+Command type: 0x0B 0x01:, 4.030872, 4.133950
+Command type: 0x0B 0x03:, 4.030872, 4.033950, 0.000000
+Command type: 0x0B 0x02:, 4.030872, 4.033950, 0.139531
+Command type: 0x0B 0x01:, 3.902023, 4.288568
+Command type: 0x0B 0x02:, 3.902023, 4.288568, 0.113531
+Command type: 0x0B 0x03:, 3.902023, 4.165350, 0.000201
+Command type: 0x0B 0x01:, 3.753035, 4.165350
+Command type: 0x0B 0x01:, 3.753035, 4.288568
+Command type: 0x0B 0x01:, 3.902023, 4.288568
+Command type: 0x0B 0x03:, 3.902023, 4.188569, 0.000000
+Command type: 0x0B 0x02:, 3.902023, 4.188569, 0.139531
+Command type: 0x0B 0x01:, 4.546265, 4.133950
+Command type: 0x0B 0x02:, 4.546265, 4.133950, 0.113531
+Command type: 0x0B 0x03:, 4.546265, 4.010732, 0.000201
+Command type: 0x0B 0x01:, 4.397277, 4.010732
+Command type: 0x0B 0x01:, 4.397277, 4.133950
+Command type: 0x0B 0x01:, 4.546265, 4.133950
+Command type: 0x0B 0x03:, 4.546265, 4.033950, 0.000000
+Command type: 0x0B 0x02:, 4.546265, 4.033950, 0.139531
+Command type: 0x0D
+Command type: 0x0B 0x01:, 4.308608, 4.023786
+Command type: 0x0B 0x02:, 4.308608, 4.023786, 0.113531
+Command type: 0x0B 0x03:, 4.377309, 4.092486, 0.000201
+Command type: 0x0B 0x01:, 4.377309, 4.120968
+Command type: 0x0B 0x01:, 4.308537, 4.052197
+Command type: 0x0B 0x01:, 4.308537, 4.080678
+Command type: 0x0B 0x01:, 4.373240, 4.145382
+Command type: 0x0B 0x01:, 4.344758, 4.145382
+Command type: 0x0B 0x01:, 4.308537, 4.109161
+Command type: 0x0B 0x01:, 4.308537, 4.137643
+Command type: 0x0B 0x01:, 4.316204, 4.145310
+Command type: 0x0B 0x03:, 4.245493, 4.074600, 0.000000
+Command type: 0x0B 0x02:, 4.245493, 4.074600, 0.139531
+Command type: 0x0B 0x01:, 4.239436, 4.153990
+Command type: 0x0B 0x02:, 4.239436, 4.153990, 0.113531
+Command type: 0x0B 0x03:, 4.248461, 4.163014, 0.000201
+Command type: 0x0B 0x01:, 4.248461, 4.191496
+Command type: 0x0B 0x01:, 4.210883, 4.153918
+Command type: 0x0B 0x01:, 4.182401, 4.153918
+Command type: 0x0B 0x01:, 4.248461, 4.219978
+Command type: 0x0B 0x01:, 4.248461, 4.248461
+Command type: 0x0B 0x01:, 4.179688, 4.179688
+Command type: 0x0B 0x01:, 4.179688, 4.208170
+Command type: 0x0B 0x01:, 4.248389, 4.276872
+Command type: 0x0B 0x03:, 4.177679, 4.206161, 0.000000
+Command type: 0x0B 0x02:, 4.177679, 4.206161, 0.139531
+Command type: 0x0B 0x01:, 4.563403, 3.993758
+Command type: 0x0B 0x02:, 4.563403, 3.993758, 0.113531
+Command type: 0x0B 0x03:, 5.151396, 4.581751, 0.000201
+Command type: 0x0B 0x01:, 5.151396, 4.610233
+Command type: 0x0B 0x01:, 4.565237, 4.024074
+Command type: 0x0B 0x01:, 4.565237, 4.052556
+Command type: 0x0B 0x01:, 5.151396, 4.638716
+Command type: 0x0B 0x01:, 5.151396, 4.667198
+Command type: 0x0B 0x01:, 4.565237, 4.081038
+Command type: 0x0B 0x01:, 4.565237, 4.109520
+Command type: 0x0B 0x01:, 5.151396, 4.695680
+Command type: 0x0B 0x01:, 5.151396, 4.724163
+Command type: 0x0B 0x01:, 4.565237, 4.138002
+Command type: 0x0B 0x01:, 4.565237, 4.142851
+Command type: 0x0B 0x01:, 4.562287, 4.149972
+Command type: 0x0B 0x01:, 4.555166, 4.152922
+Command type: 0x0B 0x01:, 4.551673, 4.152922
+Command type: 0x0B 0x01:, 5.151396, 4.752645
+Command type: 0x0B 0x01:, 5.151396, 4.781127
+Command type: 0x0B 0x01:, 4.523191, 4.152922
+Command type: 0x0B 0x01:, 4.494709, 4.152922
+Command type: 0x0B 0x01:, 5.151396, 4.809609
+Command type: 0x0B 0x01:, 5.151396, 4.838091
+Command type: 0x0B 0x01:, 4.466227, 4.152922
+Command type: 0x0B 0x01:, 4.437744, 4.152922
+Command type: 0x0B 0x01:, 5.151752, 4.866930
+Command type: 0x0B 0x01:, 5.151752, 4.895412
+Command type: 0x0B 0x01:, 4.436032, 4.179692
+Command type: 0x0B 0x01:, 4.436032, 4.208174
+Command type: 0x0B 0x01:, 5.151752, 4.923894
+Command type: 0x0B 0x01:, 5.151752, 4.952376
+Command type: 0x0B 0x01:, 4.436032, 4.236656
+Command type: 0x0B 0x01:, 4.436032, 4.265139
+Command type: 0x0B 0x01:, 5.151752, 4.980859
+Command type: 0x0B 0x01:, 5.151752, 5.009341
+Command type: 0x0B 0x01:, 4.436032, 4.293621
+Command type: 0x0B 0x01:, 4.436032, 4.297114
+Command type: 0x0B 0x01:, 4.433083, 4.304235
+Command type: 0x0B 0x01:, 4.425962, 4.307184
+Command type: 0x0B 0x01:, 4.421113, 4.307184
+Command type: 0x0B 0x01:, 5.151752, 5.037823
+Command type: 0x0B 0x01:, 5.151752, 5.066306
+Command type: 0x0B 0x01:, 4.392631, 4.307184
+Command type: 0x0B 0x01:, 4.364148, 4.307184
+Command type: 0x0B 0x01:, 5.151752, 5.094788
+Command type: 0x0B 0x01:, 5.151752, 5.123270
+Command type: 0x0B 0x01:, 4.335666, 4.307184
+Command type: 0x0B 0x01:, 4.307184, 4.307184
+Command type: 0x0B 0x01:, 5.151752, 5.151752
+Command type: 0x0B 0x01:, 5.123270, 5.151752
+Command type: 0x0B 0x01:, 4.280126, 4.308608
+Command type: 0x0B 0x03:, 4.350836, 4.379319, 0.000000
+Command type: 0x0B 0x02:, 4.350836, 4.379319, 0.139531
+Command type: 0x0B 0x01:, 4.179760, 4.236724
+Command type: 0x0B 0x02:, 4.179760, 4.236724, 0.113531
+Command type: 0x0B 0x03:, 5.094788, 5.151752, 0.000201
+Command type: 0x0B 0x01:, 5.066306, 5.151752
+Command type: 0x0B 0x01:, 4.178335, 4.263782
+Command type: 0x0B 0x01:, 4.178335, 4.292264
+Command type: 0x0B 0x01:, 5.037823, 5.151752
+Command type: 0x0B 0x01:, 5.009341, 5.151752
+Command type: 0x0B 0x01:, 4.164773, 4.307184
+Command type: 0x0B 0x01:, 4.136291, 4.307184
+Command type: 0x0B 0x01:, 4.980859, 5.151752
+Command type: 0x0B 0x01:, 4.952376, 5.151752
+Command type: 0x0B 0x01:, 4.107808, 4.307184
+Command type: 0x0B 0x01:, 4.079326, 4.307184
+Command type: 0x0B 0x01:, 4.923894, 5.151752
+Command type: 0x0B 0x01:, 4.895412, 5.151752
+Command type: 0x0B 0x01:, 4.050844, 4.307184
+Command type: 0x0B 0x01:, 4.022361, 4.307184
+Command type: 0x0B 0x01:, 4.866930, 5.151752
+Command type: 0x0B 0x01:, 4.838448, 5.151752
+Command type: 0x0B 0x01:, 3.920639, 4.233943
+Command type: 0x0B 0x01:, 3.920639, 4.262426
+Command type: 0x0B 0x01:, 4.809965, 5.151752
+Command type: 0x0B 0x01:, 4.781483, 5.151752
+Command type: 0x0B 0x01:, 3.920639, 4.290908
+Command type: 0x0B 0x01:, 3.920639, 4.297114
+Command type: 0x0B 0x01:, 3.917689, 4.304235
+Command type: 0x0B 0x01:, 3.910568, 4.307184
+Command type: 0x0B 0x01:, 4.752999, 5.151754
+Command type: 0x0B 0x01:, 4.724516, 5.151754
+Command type: 0x0B 0x01:, 3.879950, 4.307184
+Command type: 0x0B 0x01:, 3.851468, 4.307184
+Command type: 0x0B 0x01:, 4.696036, 5.151752
+Command type: 0x0B 0x01:, 4.667554, 5.151752
+Command type: 0x0B 0x01:, 3.822985, 4.307184
+Command type: 0x0B 0x01:, 3.794503, 4.307184
+Command type: 0x0B 0x01:, 4.639071, 5.151752
+Command type: 0x0B 0x01:, 4.610590, 5.151752
+Command type: 0x0B 0x01:, 3.766021, 4.307184
+Command type: 0x0B 0x01:, 3.741642, 4.307184
+Command type: 0x0B 0x01:, 3.734637, 4.304283
+Command type: 0x0B 0x01:, 4.582107, 5.151752
+Command type: 0x0B 0x01:, 4.553625, 5.151752
+Command type: 0x0B 0x01:, 3.147548, 3.745675
+Command type: 0x0B 0x01:, 3.147548, 3.774158
+Command type: 0x0B 0x01:, 4.525143, 5.151752
+Command type: 0x0B 0x01:, 4.496660, 5.151752
+Command type: 0x0B 0x01:, 3.147548, 3.802640
+Command type: 0x0B 0x01:, 3.147548, 3.831122
+Command type: 0x0B 0x01:, 4.468178, 5.151752
+Command type: 0x0B 0x01:, 4.439696, 5.151752
+Command type: 0x0B 0x01:, 3.147548, 3.859604
+Command type: 0x0B 0x01:, 3.147548, 3.888087
+Command type: 0x0B 0x01:, 4.411213, 5.151752
+Command type: 0x0B 0x01:, 4.382731, 5.151752
+Command type: 0x0B 0x01:, 3.147548, 3.916569
+Command type: 0x0B 0x01:, 3.147548, 3.945051
+Command type: 0x0B 0x01:, 4.354249, 5.151752
+Command type: 0x0B 0x01:, 4.325767, 5.151752
+Command type: 0x0B 0x01:, 3.147548, 3.973533
+Command type: 0x0B 0x01:, 3.147548, 4.002016
+Command type: 0x0B 0x01:, 4.297285, 5.151752
+Command type: 0x0B 0x01:, 4.268802, 5.151752
+Command type: 0x0B 0x01:, 3.147548, 4.030498
+Command type: 0x0B 0x01:, 3.147548, 4.058980
+Command type: 0x0B 0x01:, 4.240320, 5.151752
+Command type: 0x0B 0x01:, 4.211838, 5.151752
+Command type: 0x0B 0x01:, 3.147548, 4.087462
+Command type: 0x0B 0x01:, 3.147548, 4.115945
+Command type: 0x0B 0x01:, 4.183355, 5.151752
+Command type: 0x0B 0x01:, 4.154873, 5.151752
+Command type: 0x0B 0x01:, 3.147548, 4.144427
+Command type: 0x0B 0x01:, 3.147548, 4.172909
+Command type: 0x0B 0x01:, 4.126391, 5.151752
+Command type: 0x0B 0x01:, 4.097908, 5.151752
+Command type: 0x0B 0x01:, 3.147548, 4.201392
+Command type: 0x0B 0x01:, 3.147548, 4.229874
+Command type: 0x0B 0x01:, 4.069427, 5.151752
+Command type: 0x0B 0x01:, 4.040944, 5.151752
+Command type: 0x0B 0x01:, 3.147548, 4.258356
+Command type: 0x0B 0x01:, 3.147548, 4.286839
+Command type: 0x0B 0x01:, 4.012462, 5.151752
+Command type: 0x0B 0x01:, 3.983980, 5.151752
+Command type: 0x0B 0x01:, 3.147548, 4.315320
+Command type: 0x0B 0x01:, 3.147548, 4.343803
+Command type: 0x0B 0x01:, 3.955497, 5.151752
+Command type: 0x0B 0x01:, 3.927015, 5.151752
+Command type: 0x0B 0x01:, 3.147548, 4.372285
+Command type: 0x0B 0x01:, 3.147548, 4.400767
+Command type: 0x0B 0x01:, 3.898533, 5.151752
+Command type: 0x0B 0x01:, 3.870051, 5.151752
+Command type: 0x0B 0x01:, 3.147548, 4.429250
+Command type: 0x0B 0x01:, 3.147548, 4.457732
+Command type: 0x0B 0x01:, 3.841212, 5.151396
+Command type: 0x0B 0x01:, 3.812730, 5.151396
+Command type: 0x0B 0x01:, 3.147904, 4.486570
+Command type: 0x0B 0x01:, 3.147904, 4.515052
+Command type: 0x0B 0x01:, 3.784248, 5.151396
+Command type: 0x0B 0x01:, 3.755765, 5.151396
+Command type: 0x0B 0x01:, 3.147904, 4.543535
+Command type: 0x0B 0x01:, 3.147904, 4.572017
+Command type: 0x0B 0x01:, 3.727283, 5.151396
+Command type: 0x0B 0x01:, 3.698801, 5.151396
+Command type: 0x0B 0x01:, 3.147904, 4.600499
+Command type: 0x0B 0x01:, 3.147904, 4.628982
+Command type: 0x0B 0x01:, 3.670319, 5.151396
+Command type: 0x0B 0x01:, 3.641836, 5.151396
+Command type: 0x0B 0x01:, 3.147904, 4.657464
+Command type: 0x0B 0x01:, 3.147904, 4.685946
+Command type: 0x0B 0x01:, 3.613354, 5.151396
+Command type: 0x0B 0x01:, 3.584872, 5.151396
+Command type: 0x0B 0x01:, 3.147904, 4.714428
+Command type: 0x0B 0x01:, 3.147904, 4.742910
+Command type: 0x0B 0x01:, 3.556390, 5.151396
+Command type: 0x0B 0x01:, 3.527907, 5.151396
+Command type: 0x0B 0x01:, 3.147904, 4.771393
+Command type: 0x0B 0x01:, 3.147904, 4.799875
+Command type: 0x0B 0x01:, 3.499140, 5.151111
+Command type: 0x0B 0x01:, 3.470658, 5.151111
+Command type: 0x0B 0x01:, 3.148189, 4.828642
+Command type: 0x0B 0x01:, 3.148189, 4.857124
+Command type: 0x0B 0x01:, 3.442176, 5.151111
+Command type: 0x0B 0x01:, 3.413693, 5.151111
+Command type: 0x0B 0x01:, 3.148189, 4.885607
+Command type: 0x0B 0x01:, 3.148189, 4.914089
+Command type: 0x0B 0x01:, 3.385211, 5.151111
+Command type: 0x0B 0x01:, 3.356729, 5.151111
+Command type: 0x0B 0x01:, 3.148189, 4.942571
+Command type: 0x0B 0x01:, 3.148189, 4.971054
+Command type: 0x0B 0x01:, 3.328247, 5.151111
+Command type: 0x0B 0x01:, 3.299764, 5.151111
+Command type: 0x0B 0x01:, 3.148474, 4.999821
+Command type: 0x0B 0x01:, 3.148474, 5.028303
+Command type: 0x0B 0x01:, 3.270998, 5.150826
+Command type: 0x0B 0x01:, 3.242515, 5.150826
+Command type: 0x0B 0x01:, 3.148474, 5.056785
+Command type: 0x0B 0x01:, 3.148474, 5.085267
+Command type: 0x0B 0x01:, 3.213606, 5.150399
+Command type: 0x0B 0x01:, 3.185123, 5.150399
+Command type: 0x0B 0x01:, 3.148901, 5.114177
+Command type: 0x0B 0x01:, 3.148901, 5.142659
+Command type: 0x0B 0x01:, 3.156570, 5.150328
+Command type: 0x0B 0x03:, 3.085859, 5.079618, 0.000000
+Command type: 0x0B 0x02:, 3.085859, 5.079618, 0.139531
+Command type: 0x0B 0x01:, 3.983096, 4.153990
+Command type: 0x0B 0x02:, 3.983096, 4.153990, 0.113531
+Command type: 0x0B 0x03:, 3.990764, 4.161657, 0.000201
+Command type: 0x0B 0x01:, 3.990764, 4.190139
+Command type: 0x0B 0x01:, 3.954543, 4.153918
+Command type: 0x0B 0x01:, 3.926060, 4.153918
+Command type: 0x0B 0x01:, 3.990763, 4.218622
+Command type: 0x0B 0x01:, 3.990763, 4.247104
+Command type: 0x0B 0x01:, 3.921991, 4.178332
+Command type: 0x0B 0x01:, 3.921991, 4.206814
+Command type: 0x0B 0x01:, 3.990692, 4.275515
+Command type: 0x0B 0x03:, 3.919982, 4.204804, 0.000000
+Command type: 0x0B 0x02:, 3.919982, 4.204804, 0.139531
+Command type: 0x0B 0x01:, 5.142730, 3.148972
+Command type: 0x0B 0x02:, 5.142730, 3.148972, 0.113531
+Command type: 0x0B 0x03:, 5.150399, 3.156641, 0.000201
+Command type: 0x0B 0x01:, 5.150399, 3.185123
+Command type: 0x0B 0x01:, 5.114177, 3.148901
+Command type: 0x0B 0x01:, 5.085694, 3.148901
+Command type: 0x0B 0x01:, 5.150399, 3.213606
+Command type: 0x0B 0x01:, 5.150399, 3.242088
+Command type: 0x0B 0x01:, 5.056785, 3.148474
+Command type: 0x0B 0x01:, 5.028303, 3.148474
+Command type: 0x0B 0x01:, 5.150826, 3.270998
+Command type: 0x0B 0x01:, 5.150826, 3.299480
+Command type: 0x0B 0x01:, 4.999821, 3.148474
+Command type: 0x0B 0x01:, 4.971338, 3.148474
+Command type: 0x0B 0x01:, 5.151111, 3.328247
+Command type: 0x0B 0x01:, 5.151111, 3.356729
+Command type: 0x0B 0x01:, 4.942571, 3.148189
+Command type: 0x0B 0x01:, 4.914089, 3.148189
+Command type: 0x0B 0x01:, 5.151111, 3.385211
+Command type: 0x0B 0x01:, 5.151111, 3.413693
+Command type: 0x0B 0x01:, 4.885607, 3.148189
+Command type: 0x0B 0x01:, 4.857124, 3.148189
+Command type: 0x0B 0x01:, 5.151111, 3.442176
+Command type: 0x0B 0x01:, 5.151111, 3.470658
+Command type: 0x0B 0x01:, 4.828642, 3.148189
+Command type: 0x0B 0x01:, 4.800160, 3.148189
+Command type: 0x0B 0x01:, 5.151111, 3.499140
+Command type: 0x0B 0x01:, 5.151111, 3.527623
+Command type: 0x0B 0x01:, 4.771393, 3.147904
+Command type: 0x0B 0x01:, 4.742910, 3.147904
+Command type: 0x0B 0x01:, 5.151396, 3.556390
+Command type: 0x0B 0x01:, 5.151396, 3.584872
+Command type: 0x0B 0x01:, 4.714428, 3.147904
+Command type: 0x0B 0x01:, 4.685946, 3.147904
+Command type: 0x0B 0x01:, 5.151396, 3.613354
+Command type: 0x0B 0x01:, 5.151396, 3.641836
+Command type: 0x0B 0x01:, 4.657464, 3.147904
+Command type: 0x0B 0x01:, 4.628982, 3.147904
+Command type: 0x0B 0x01:, 5.151396, 3.670319
+Command type: 0x0B 0x01:, 5.151396, 3.698801
+Command type: 0x0B 0x01:, 4.600499, 3.147904
+Command type: 0x0B 0x01:, 4.572017, 3.147904
+Command type: 0x0B 0x01:, 5.151396, 3.727283
+Command type: 0x0B 0x01:, 5.151396, 3.755765
+Command type: 0x0B 0x01:, 4.543535, 3.147904
+Command type: 0x0B 0x01:, 4.515052, 3.147904
+Command type: 0x0B 0x01:, 5.151396, 3.784248
+Command type: 0x0B 0x01:, 5.151396, 3.812730
+Command type: 0x0B 0x01:, 4.486570, 3.147904
+Command type: 0x0B 0x01:, 4.458088, 3.147904
+Command type: 0x0B 0x01:, 5.151396, 3.841212
+Command type: 0x0B 0x01:, 5.151396, 3.869694
+Command type: 0x0B 0x01:, 4.429250, 3.147548
+Command type: 0x0B 0x01:, 4.400767, 3.147548
+Command type: 0x0B 0x01:, 5.151752, 3.898533
+Command type: 0x0B 0x01:, 5.151752, 3.927015
+Command type: 0x0B 0x01:, 4.372285, 3.147548
+Command type: 0x0B 0x01:, 4.343803, 3.147548
+Command type: 0x0B 0x01:, 5.151752, 3.955497
+Command type: 0x0B 0x01:, 5.151752, 3.983980
+Command type: 0x0B 0x01:, 4.315320, 3.147548
+Command type: 0x0B 0x01:, 4.286839, 3.147548
+Command type: 0x0B 0x01:, 5.151752, 4.012462
+Command type: 0x0B 0x01:, 5.151752, 4.040944
+Command type: 0x0B 0x01:, 4.258356, 3.147548
+Command type: 0x0B 0x01:, 4.229874, 3.147548
+Command type: 0x0B 0x01:, 5.151752, 4.069427
+Command type: 0x0B 0x01:, 5.151752, 4.097908
+Command type: 0x0B 0x01:, 4.201392, 3.147548
+Command type: 0x0B 0x01:, 4.172909, 3.147548
+Command type: 0x0B 0x01:, 5.151752, 4.126391
+Command type: 0x0B 0x01:, 5.151752, 4.154873
+Command type: 0x0B 0x01:, 4.144427, 3.147548
+Command type: 0x0B 0x01:, 4.115945, 3.147548
+Command type: 0x0B 0x01:, 5.151752, 4.183355
+Command type: 0x0B 0x01:, 5.151752, 4.211838
+Command type: 0x0B 0x01:, 4.087462, 3.147548
+Command type: 0x0B 0x01:, 4.058980, 3.147548
+Command type: 0x0B 0x01:, 5.151752, 4.240320
+Command type: 0x0B 0x01:, 5.151752, 4.268802
+Command type: 0x0B 0x01:, 4.030498, 3.147548
+Command type: 0x0B 0x01:, 4.002016, 3.147548
+Command type: 0x0B 0x01:, 5.151752, 4.297285
+Command type: 0x0B 0x01:, 5.151752, 4.325767
+Command type: 0x0B 0x01:, 3.973533, 3.147548
+Command type: 0x0B 0x01:, 3.945051, 3.147548
+Command type: 0x0B 0x01:, 5.151752, 4.354249
+Command type: 0x0B 0x01:, 5.151752, 4.382731
+Command type: 0x0B 0x01:, 3.916569, 3.147548
+Command type: 0x0B 0x01:, 3.888087, 3.147548
+Command type: 0x0B 0x01:, 5.151752, 4.411213
+Command type: 0x0B 0x01:, 5.151752, 4.439696
+Command type: 0x0B 0x01:, 3.859604, 3.147548
+Command type: 0x0B 0x01:, 3.831122, 3.147548
+Command type: 0x0B 0x01:, 5.151752, 4.468178
+Command type: 0x0B 0x01:, 5.151752, 4.496660
+Command type: 0x0B 0x01:, 3.802640, 3.147548
+Command type: 0x0B 0x01:, 3.774158, 3.147548
+Command type: 0x0B 0x01:, 5.151752, 4.525143
+Command type: 0x0B 0x01:, 5.151752, 4.553625
+Command type: 0x0B 0x01:, 3.745675, 3.147548
+Command type: 0x0B 0x01:, 3.717193, 3.147548
+Command type: 0x0B 0x01:, 4.564663, 3.995018
+Command type: 0x0B 0x01:, 4.557659, 3.992116
+Command type: 0x0B 0x01:, 4.533279, 3.992116
+Command type: 0x0B 0x01:, 3.688711, 3.147548
+Command type: 0x0B 0x01:, 3.660229, 3.147548
+Command type: 0x0B 0x01:, 4.504797, 3.992116
+Command type: 0x0B 0x01:, 4.476315, 3.992116
+Command type: 0x0B 0x01:, 3.631746, 3.147548
+Command type: 0x0B 0x01:, 3.603264, 3.147548
+Command type: 0x0B 0x01:, 4.447833, 3.992116
+Command type: 0x0B 0x01:, 4.419350, 3.992116
+Command type: 0x0B 0x01:, 3.574782, 3.147548
+Command type: 0x0B 0x01:, 3.546300, 3.147548
+Command type: 0x0B 0x01:, 4.390868, 3.992116
+Command type: 0x0B 0x01:, 4.381611, 3.995066
+Command type: 0x0B 0x01:, 4.378662, 4.002186
+Command type: 0x0B 0x01:, 4.378662, 4.008392
+Command type: 0x0B 0x01:, 3.517817, 3.147548
+Command type: 0x0B 0x01:, 3.489335, 3.147548
+Command type: 0x0B 0x01:, 4.378662, 4.036875
+Command type: 0x0B 0x01:, 4.378662, 4.065357
+Command type: 0x0B 0x01:, 3.460853, 3.147548
+Command type: 0x0B 0x01:, 3.432371, 3.147548
+Command type: 0x0B 0x01:, 4.276939, 3.992116
+Command type: 0x0B 0x01:, 4.248457, 3.992116
+Command type: 0x0B 0x01:, 3.403888, 3.147548
+Command type: 0x0B 0x01:, 3.375406, 3.147548
+Command type: 0x0B 0x01:, 4.219975, 3.992116
+Command type: 0x0B 0x01:, 4.191493, 3.992116
+Command type: 0x0B 0x01:, 3.346924, 3.147548
+Command type: 0x0B 0x01:, 3.318442, 3.147548
+Command type: 0x0B 0x01:, 4.163010, 3.992116
+Command type: 0x0B 0x01:, 4.134528, 3.992116
+Command type: 0x0B 0x01:, 3.289959, 3.147548
+Command type: 0x0B 0x01:, 3.261477, 3.147548
+Command type: 0x0B 0x01:, 4.120965, 4.007036
+Command type: 0x0B 0x01:, 4.120965, 4.035518
+Command type: 0x0B 0x01:, 3.232995, 3.147548
+Command type: 0x0B 0x01:, 3.204512, 3.147548
+Command type: 0x0B 0x01:, 4.120965, 4.064001
+Command type: 0x0B 0x01:, 4.120965, 4.092483
+Command type: 0x0B 0x01:, 4.050840, 4.022357
+Command type: 0x0B 0x01:, 4.050840, 4.050840
+Command type: 0x0B 0x01:, 4.119612, 4.119612
+Command type: 0x0B 0x01:, 4.119612, 4.145382
+Command type: 0x0B 0x01:, 4.050838, 4.079323
+Command type: 0x0B 0x01:, 4.050838, 4.107806
+Command type: 0x0B 0x01:, 4.088417, 4.145382
+Command type: 0x0B 0x01:, 4.059935, 4.145382
+Command type: 0x0B 0x01:, 4.050911, 4.136358
+Command type: 0x0B 0x03:, 4.121622, 4.207068, 0.000000
+Command type: 0x0B 0x02:, 4.121622, 4.207068, 0.139531
+Command type: 0x0B 0x01:, 3.177454, 3.148972
+Command type: 0x0B 0x02:, 3.177454, 3.148972, 0.113531
+Command type: 0x0B 0x03:, 4.020599, 3.992116, 0.000201
+Command type: 0x0B 0x01:, 3.992116, 3.992116
+Command type: 0x0B 0x01:, 3.147548, 3.147548
+Command type: 0x0B 0x01:, 3.147548, 3.176030
+Command type: 0x0B 0x01:, 3.963634, 3.992116
+Command type: 0x0B 0x01:, 3.935152, 3.992116
+Command type: 0x0B 0x01:, 3.147548, 3.204512
+Command type: 0x0B 0x01:, 3.147548, 3.232995
+Command type: 0x0B 0x01:, 3.906670, 3.992116
+Command type: 0x0B 0x01:, 3.878187, 3.992116
+Command type: 0x0B 0x01:, 3.147548, 3.261477
+Command type: 0x0B 0x01:, 3.147548, 3.289959
+Command type: 0x0B 0x01:, 3.863268, 4.005680
+Command type: 0x0B 0x01:, 3.863268, 4.034162
+Command type: 0x0B 0x01:, 3.147548, 3.318442
+Command type: 0x0B 0x01:, 3.147548, 3.346924
+Command type: 0x0B 0x01:, 3.863268, 4.062644
+Command type: 0x0B 0x01:, 3.863268, 4.091126
+Command type: 0x0B 0x01:, 3.147548, 3.375406
+Command type: 0x0B 0x01:, 3.147548, 3.403888
+Command type: 0x0B 0x01:, 3.863268, 4.119608
+Command type: 0x0B 0x01:, 3.863268, 4.146735
+Command type: 0x0B 0x01:, 3.147547, 3.432372
+Command type: 0x0B 0x01:, 3.147547, 3.460854
+Command type: 0x0B 0x01:, 3.833074, 4.146379
+Command type: 0x0B 0x01:, 3.804591, 4.146379
+Command type: 0x0B 0x01:, 3.147904, 3.489691
+Command type: 0x0B 0x01:, 3.147904, 3.518173
+Command type: 0x0B 0x01:, 3.776109, 4.146379
+Command type: 0x0B 0x01:, 3.747627, 4.146379
+Command type: 0x0B 0x01:, 3.147904, 3.546656
+Command type: 0x0B 0x01:, 3.147904, 3.575138
+Command type: 0x0B 0x01:, 3.734064, 4.161297
+Command type: 0x0B 0x01:, 3.734064, 4.189780
+Command type: 0x0B 0x01:, 3.147904, 3.603620
+Command type: 0x0B 0x01:, 3.147904, 3.632102
+Command type: 0x0B 0x01:, 3.734064, 4.218262
+Command type: 0x0B 0x01:, 3.734064, 4.246744
+Command type: 0x0B 0x01:, 3.147904, 3.660585
+Command type: 0x0B 0x01:, 3.147904, 3.689067
+Command type: 0x0B 0x01:, 3.734064, 4.275227
+Command type: 0x0B 0x01:, 3.734064, 4.299606
+Command type: 0x0B 0x01:, 3.736965, 4.306610
+Command type: 0x0B 0x01:, 3.148972, 3.718617
+Command type: 0x0B 0x03:, 3.219683, 3.789328, 0.000000
+Command type: 0x0B 0x02:, 3.219683, 3.789328, 0.149578
+Command type: 0x07
