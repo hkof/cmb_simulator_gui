@@ -10,6 +10,7 @@ import java.awt.geom.Line2D;
 class Surface extends JPanel {
 
     Layer currentLayer;
+    int numberOfCommandsToExecute = 0;
 
     private void doDrawing(Graphics g) {
         if(currentLayer == null )
@@ -36,8 +37,12 @@ class Surface extends JPanel {
         //control lines width
         //g2d.setStroke(new BasicStroke());
         boolean skipNextCmd = false;
+        int counter = 0;
         for(Command cmd : currentLayer.getCommands()){
-
+            counter++;
+            if(counter > numberOfCommandsToExecute ){
+                break;
+            }
             if(cmd instanceof ToolPathWayPoint){
                 // detect if we are printing with width zero
                 // if so that means we are moving the printing tip without printing
@@ -76,6 +81,13 @@ class Surface extends JPanel {
     public void setCurrentLayer(Layer layer){
 
         this.currentLayer = layer;
+        this.numberOfCommandsToExecute = layer.getCommands().size();
+
+    }
+
+    public void setNumberOfCommandToExecute(int num){
+
+        this.numberOfCommandsToExecute = num;
 
     }
 
