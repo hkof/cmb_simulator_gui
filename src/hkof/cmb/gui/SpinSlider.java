@@ -1,4 +1,4 @@
-package hkof.gui.cmb;
+package hkof.cmb.gui;
 
 import java.awt.*;
 import javax.swing.*;

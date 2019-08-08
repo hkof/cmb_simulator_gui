@@ -1,4 +1,4 @@
-package hkof.gui.cmb;
+package hkof.cmb.gui;
 
 import com.util.parser.cmb_parser.*;
 

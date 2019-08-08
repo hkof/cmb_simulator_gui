@@ -1,4 +1,4 @@
-package hkof.gui.cmb;
+package hkof.cmb.gui;
 
 import com.util.parser.cmb_parser.Layer;
 import com.util.parser.cmb_parser.WayPointType1;
@@ -7,8 +7,6 @@ import javax.swing.*;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.util.List;
 
 public class MainInterface extends JFrame {
