@@ -1,14 +1,14 @@
 package hkof.cmb.gui;
 
-import com.util.parser.cmb_parser.Layer;
-import com.util.parser.cmb_parser.WayPointType1;
+import hkof.cmb.Layer;
 
 import javax.swing.*;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 import java.awt.*;
+import java.io.File;
 import java.util.List;
-
+import hkof.cmb.parser.CmbParser;
 public class MainInterface extends JFrame {
 
     List<Layer> layers;
@@ -84,7 +84,7 @@ public class MainInterface extends JFrame {
     public List<Layer> processData(String path){
         List<Layer> layers = null;//"samples\\Question.cmb");//Exclamation.cmb");
         try {
-            layers = Layer.parseLayers(path);
+            layers = CmbParser.fromFile(new File(path)).getLayers();
         } catch (Exception e) {
             e.printStackTrace();
             return null;

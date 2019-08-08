@@ -1,6 +1,10 @@
 package hkof.cmb.gui;
 
-import com.util.parser.cmb_parser.*;
+
+import hkof.cmb.Layer;
+import hkof.cmb.commands.Command;
+import hkof.cmb.commands.ToolPathWayPoint;
+import hkof.cmb.commands.WayPointType3;
 
 import javax.swing.*;
 import java.awt.*;
