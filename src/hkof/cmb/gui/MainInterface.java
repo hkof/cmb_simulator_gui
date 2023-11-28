@@ -21,7 +21,7 @@ public class MainInterface extends JFrame {
 
     private void initUI() {
 
-        String target = "samples/strong_qube_4_draft3_scale0.65_solid.cmb";
+        String target = "samples/strong_qube.cmb";
 
         layers = processData(target);
 
