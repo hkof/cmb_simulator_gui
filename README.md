@@ -9,3 +9,5 @@ private void initUI() {
         ....
 ```
 ![cmb_parser_ui](https://user-images.githubusercontent.com/2373344/181518742-bb48865b-56ac-42d2-b542-0bba0acaf66c.png)
+
+## Note: The [CMB Decoder](https://github.com/hkof/cmb_decoder) library (.jar) is required in order for the simulator to run.
